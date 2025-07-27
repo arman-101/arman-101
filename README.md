@@ -24,6 +24,9 @@
 **Vue**  
 - Posting App (Full Stack) – [Repo](https://github.com/arman-101/posting-full-stack-web) + [Live](https://posting-full-stack-web-app.netlify.app/)
 
+**C#**
+- Barcode Scanner App - [Repo](https://github.com/arman-101/barcode-scanner-app)
+
 ---
 
 ### 🔧 Backend  
