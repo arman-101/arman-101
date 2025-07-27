@@ -2,7 +2,7 @@
 - 🔭 I'm a recent Software Engineering graduate actively seeking roles in the field!  
 - 🌱 Currently learning React and then Ruby via The Odin Project.  
 - ⚡ Fun fact: I'm dyslexic!
-
+- 🕸️ Check out my [Resume Website](https://resume-arman.vercel.app/)
 ---
 
 ## 🚀 Tech Stack & Projects
