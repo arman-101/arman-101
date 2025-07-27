@@ -24,9 +24,6 @@
 **Vue**  
 - Posting App (Full Stack) – [Repo](https://github.com/arman-101/posting-full-stack-web) + [Live](https://posting-full-stack-web-app.netlify.app/)
 
-**C#**
-- Barcode Scanner App - [Repo](https://github.com/arman-101/barcode-scanner-app)
-
 ---
 
 ### 🔧 Backend  
@@ -40,6 +37,9 @@
 - CodeTeacher – [Repo](https://github.com/arman-101/CodeTeacher)  
 - Etsy Profit Calculator – [Repo](https://github.com/arman-101/etsy-printify-profit-calculator)  
 - Password Manager – [Repo](https://github.com/arman-101/password-manager)
+
+**C#**
+- Barcode Scanner App - [Repo](https://github.com/arman-101/barcode-scanner-app)
 
 **Java**  
 - Academic & personal projects (available on request)
