@@ -7,6 +7,10 @@
 
 ## 🚀 Tech Stack & Projects
 
+## 🥳 Recent projects
+**NextJS and Tailwind**
+- Reduce It - [Repo](https://github.com/arman-101/reduce-it) + [Live](https://reduce-it.vercel.app/)
+
 ### 💻 Frontend  
 **HTML, CSS, JavaScript**  
 - WikiHistory – [Repo](https://github.com/arman-101/wiki) + [Live](https://arman-101.github.io/wiki/)
