@@ -7,7 +7,7 @@
 
 ## 🚀 Tech Stack & Projects
 
-## 🥳 Recent projects
+### 🥳 Recent Projects
 **NextJS and Tailwind**
 - Reduce It - [Repo](https://github.com/arman-101/reduce-it) + [Live](https://reduce-it.vercel.app/)
 
