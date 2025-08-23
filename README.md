@@ -24,6 +24,7 @@
 - Basic CV Maker – [Repo](https://github.com/arman-101/cv-react) + [Live](https://react-cv-arman.netlify.app/)
 - PalettePicker – [Repo](https://github.com/arman-101/color-palette) + [Live](https://color-palette-91a8d.web.app/)
 - Blog Post App – [Repo](https://github.com/arman-101/rake-post) + [Live](https://rake-27719.web.app/)
+- History Timeline - [Repo](https://github.com/arman-101/history-map) + [Live](https://history-map-mu.vercel.app/)
 
 **Vue**  
 - Posting App (Full Stack) – [Repo](https://github.com/arman-101/posting-full-stack-web) + [Live](https://posting-full-stack-web-app.netlify.app/)
