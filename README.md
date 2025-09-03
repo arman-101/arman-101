@@ -9,6 +9,7 @@
 
 ### 🥳 Recent Projects
 **NextJS and Tailwind**
+- The Dandelion Dynasty Wiki - [Repo](https://github.com/arman-101/dandelion-wiki) + [Live](https://dandelion-wiki.vercel.app/)
 - Reduce It - [Repo](https://github.com/arman-101/reduce-it) + [Live](https://reduce-it.vercel.app/)
 
 ### 💻 Frontend  
